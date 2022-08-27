@@ -1,0 +1,43 @@
+body {
+    text-decoration: none;
+    margin: 0;
+}
+.menu-navegacao{
+    background-color: #434647;
+    text-decoration: none;
+    height: 30px;
+    padding: 10px;
+     
+}
+.conteudo-principal{
+    position:relative;
+    margin: 0;
+}
+.imagem-logo-video{
+    width:0%;
+    height: 0%;
+}
+/*
+.video{
+    margin: 0;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.logo {
+    margin: 0 auto;
+    position:absolute;
+    top:50%;
+    
+
+}
+*/
+.bar-interior, .drinks-background{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
